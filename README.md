@@ -9,5 +9,4 @@
 
 ## ✉️ Jak się skontaktować?
 - [Dawid Andrzejczak](https://www.linkedin.com/in/dawid-andrzejczak-184353216/)
-
 (dawid-andrzejczak@wp.pl)
