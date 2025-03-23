@@ -1,6 +1,9 @@
 # Cześć! Jestem Dawid 👋
+
 ## 🔧 Projekty
-## 🎓 Certyfikaty i kursy ukończone
+
+## 🎓 Certyfikaty i kursy 
+
 ### DataCamp
 
 ### Udemy
