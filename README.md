@@ -1,4 +1,4 @@
-# Cześć! Jestem [Dawid] 👋
+# Cześć! Jestem Dawid 👋
 ## 🔧 Projekty
 ## 🎓 Certyfikaty i kursy ukończone
 ### DataCamp
